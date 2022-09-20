@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rimelio
+- 👀 I’m interested in software development with javascript
+- 🌱 I’m currently learning MERN
