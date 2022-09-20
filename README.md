@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rimelio
+- 👋 Hi, I’m David Reyes
 - 👀 I’m interested in software development with javascript
 - 🌱 I’m currently learning MERN
